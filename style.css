@@ -1,0 +1,31 @@
+body{
+  margin:0;
+  border:0;
+  padding:0;
+}
+
+.main{
+  background:tan;
+  color:white;
+  margin:0;
+  border-bottom-style:solid;
+  border-color:lightgrey;
+  border-width: 8px;
+  padding:50px;
+}
+
+p{
+  font-size:20px;
+}
+
+button{
+  padding: 10px;
+  border:0;
+}
+
+.form{
+  background:pink;
+  margin:0;
+  border:0;
+  padding:20px;
+}
